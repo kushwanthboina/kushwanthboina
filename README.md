@@ -3,7 +3,7 @@ KUSHWANTH BOINA
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/kushwanth-boina-a8359b181/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:kushi944100@gmail.com)
 
 ### Hi there 👋
-I am Kushwanth Boina. My main intrest lies in AI and Python. I'm always curious to learn something new.
+I am Kushwanth Boina. My main interest lies in AI and Python. I'm always curious to learn something new.
 
 Hobbies - Video editing, Badminton, Workout.
 
